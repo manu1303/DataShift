@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "frontend": {
+    "wisepick": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
